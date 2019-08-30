@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name" translatable="true">Verlängere dein Leben</string>
+
+    <string name="quote" translatable="false">“Money does not buy you freedom. Time does.”</string>
+
+    <string name="from_badge" translatable="true">EINFLUSS HEUTE</string>
+    <string name="to_badge" translatable="true">EINFLUSS DIESE WOCHE</string>
+    <string name="delivery_date_badge" translatable="true">GESAMTE ZEIT</string>
+    <string name="deadline_badge" translatable="true">IN STUNDEN</string>
+
+    <string name="minutes" translatable="true">Minuten</string>
+    <string name="hours" translatable="true">Stunden</string>
+    <string name="years" translatable="true">Jahre</string>
+    <string name="yesterday" translatable="true">Gestern</string>
+    <string name="won_time" translatable="true">Stunden gewonnen</string>
+    <string name="won_years" translatable="true">Jahre gewonnen</string>
+    <string name="in_hours" translatable="true">In Minuten:</string>
+    <string name="avg_minutes" translatable="true">Täglicher Durchschnitt:</string>
+    <string name="week" translatable="true">Woche</string>
+
+    <string name="added_time" translatable="true">Gewonnene Zeit</string>
+    <string name="lost_time" translatable="true">Verlorene Zeit</string>
+    <string name="share" translatable="true">Teilen</string>
+    <string name="share_progress" translatable="true">Teile deinen Fortschritt mit deinen Freunden</string>
+    <string name="share_stats" translatable="true">Teile deine Statistiken mit deinen Freunden</string>
+    <string name="request_btn_text" translatable="true">SCHLIESSEN</string>
+    <string name="understood" translatable="true">Verstanden</string>
+    <string name="influence" translatable="true">Einfluss</string>
+    <string name="frequency" translatable="true">Häufigkeit</string>
+    <string name="my_life_expectancy" translatable="true">Meine Lebenserwartung</string>
+    <string name="share_text1" translatable="true">Ich habe meine Lebenserwartung verlängert:</string>
+    <string name="share_text2" translatable="true">Probiere es selbst aus:</string>
+    <string name="share_text3" translatable="true">Meine neue Lebenserwartung:</string>
+    <string name="last_time" translatable="true">LETZTES MAL</string>
+    <string name="never" translatable="true">noch nie</string>
+    <string name="beginning_le" translatable="true">Vorherige Lebenserwartung</string>
+    <string name="possible_le" translatable="true">Mögliche Lebenserwartung</string>
+    <string name="today" translatable="true">HEUTE</string>
+
+    <string name="intro1" translatable="true">Ihre gewonnenen Stunden werden hier angezeigt. Klicken Sie darauf, um weitere Informationen zu Ihrem Fortschritt und Ihrer Lebenserwartung zu erhalten.</string>
+    <string name="intro2" translatable="true">Klicken Sie auf eine dieser Kategorien, um Ihr tägliches Verhalten sowie dessen Auswirkung auf Ihre Lebenserwartung zu verfolgen.</string>
+    <string name="intro3" translatable="true">Diese Grafik zeigt, wie viele Stunden Sie in den letzten 5 Tagen gewonnen haben.</string>
+    <string name="intro4" translatable="true">Wischen Sie nach rechts, um auf Einstellungen, Datenschutzrichtlinien und mehr zuzugreifen.</string>
+
+    <string name="outside" translatable="true">Raus gehen</string> <string name="mood" translatable="true">Heutige Stimmung</string>
+    <string name="edit_user_data_instruction" translatable="true">Bitte bewerten Sie die folgenden Aktivitäten nach ihrer Bedeutung in Ihrem Leben (5 = wichtig)</string>
+    <string name="yearOfBirth" translatable="true">Bitte geben Sie Ihr Geburtsjahr ein</string>
+    <string name="sport" translatable="true">Sport</string>
+    <string name="smoking" translatable="true">Rauchen</string>
+    <string name="nutrition" translatable="true">Ernährung</string>
+    <string name="height" translatable="true">Höhe (cm)</string>
+    <string name="weight" translatable="true">Gewicht (kg)</string>
+    <string name="male" translatable="true">männlich</string>
+    <string name="female" translatable="true">weiblich</string>
+    <string name="countries" translatable="true">Länder</string>
+    <string name="lifeexpectency" translatable="true">Lebenserwartung:</string>
+    <string name="no_gender_country" translatable="true">Bitte geben Sie Ihr Geschlecht und Ihr Land ein</string>
+
+    <string name="smoking_today" translatable="true">Wie viel hast du geraucht?</string>
+    <string name="sport_today" translatable="true">Wie viel Sport hast du heute gemacht?</string>
+    <string name="nutrition_today" translatable="true">Wie gesund hast du heute gegessen?</string>
+    <string name="going_outside_today" translatable="true">Wie viel Zeit hast du draußen verbracht?</string>
+    <string name="mood_today" translatable="true">Wie war deine allgemeine Stimmung heute?</string>
+
+    // Option View
+    <string name="licenses" translatable="true">Lizenzen</string>
+    <string name="privacy_policy" translatable="true">Datenschutz-Bestimmungen</string>
+    <string name="settings" translatable="true">Einstellungen</string>
+    <string name="feedback" translatable="true">Feedback</string>
+    <string name="contact" translatable="true">Kontakt</string>
+    <string name="about" translatable="true">Info</string>
+    <string name="licenses_text" translatable="true">         Bilder: \n         pexels.com \n \n         Icons: \n         material.io \n         icons8.com \n         flaticon.com \n \n         Icon-Designer: \n         -Freepik \n    
+    Studien:\n
+        https://data.worldbank.org/indicator/SP.DYN.LE00.IN\n\n
+        https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(12)61720-6/fulltext\n\n
+        https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4032609/\n\n
+        https://www.ncbi.nlm.nih.gov/pubmed/10192312\n\n
+        https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3680555/\n\n
+        https://www.reuters.com/article/us-health-elderly-goingout-longevity/leaving-the-house-linked-to-longevity-in-older-adults-idUSKBN1EK19N\n\n</string>
+    <string name="about_text" translatable="true">         Entwickelt von Felix Hoppe         \n         \n         Haftungsausschluss: \n         \n         Die Daten in dieser App, die sich auf Ihre Lebenserwartung beziehen, basieren ausschließlich auf Statistiken, sodass nur Durchschnittswerte gebildet werden können.         Ihre tatsächliche Lebenserwartung hängt von vielen Umständen ab, die in dieser App nicht behandelt werden (können).         Die Statistiken basieren auf wissenschaftlichen Studien, die die Auswirkungen der in der App genannten Aktivitäten auf die Lebenserwartung abdecken.         Die in dieser App verwendeten Studien sind in den Lizenzen aufgeführt.         Ich übernehme keine Haftung für die Richtigkeit, Vollständigkeit und Aktualität der Daten.         Alle Schadensersatzansprüche im Zusammenhang mit Entscheidungen und Handlungen, die sich aus dieser App ergeben         sind auch ausgeschlossen.         \n     </string>
+
+
+    <string name="like_my_app" translatable="true">Hilft dir meine App?</string>
+    <string name="rate_text" translatable="true">Wenn dir meine App im Alltag hilft, nimm dir bitte einen Moment Zeit, um sie zu bewerten. \n         Es hilft mir sehr, diese App zu verbreiten, damit auch andere Leute davon profitieren können. \n         Danke für deine Unterstützung!</string>
+    <string name="rate" translatable="true">Bewertung</string>
+    <string name="like" translatable="true">Ich mag deine App</string>
+    <string name="remind" translatable="true">Erinnere mich später</string>
+    <string name="no_thanks" translatable="true">Nein Danke</string>
+
+    // Slider Bubble Text
+    <string name="very_low" translatable="true">sehr niedrig</string>
+    <string name="low" translatable="true">niedrig</string>
+    <string name="medium" translatable="true">mittel</string>
+    <string name="high" translatable="true">hoch</string>
+    <string name="very_high" translatable="true">sehr hoch</string>
+
+    <string name="back_pressed" translatable="true">Zum Verlassen erneut drücken</string>
+
+    // App Intro
+    <string name="goals" translatable="true">Ziele</string>
+    <string name="statistics" translatable="true">Statistiken</string>
+    <string name="diet" translatable="true">Verbessere deine Gesundheit</string>
+    <string name="obstacles" translatable="true">Hindernisse überwinden</string>
+    <string name="future" translatable="true">Zukunft</string>
+
+    <string name="goals_desc" translatable="true">Der einfachste Weg, um Ihre Ziele zu erreichen! Indem Ihnen gezeigt wird, wie einige Verhaltensweisen drastischen Einfluss auf Ihre Lebenserwartung haben, sind sie eher bereit, Änderungen vorzunehmen.</string>
+    <string name="statistics_desc" translatable="true">Bleiben Sie motiviert, indem Sie Ihren Fortschritt verfolgen.</string>
+    <string name="diet_desc" translatable="true">Erreichen Sie Ihre optimale Form, indem Sie mehr trainieren und gesünder essen.</string>
+    <string name="obstacles_desc" translatable="true">Diese App hilft Ihnen, Ihre größten Hindernisse zu überwinden. Alles, um Ihnen dabei zu helfen, die beste Version von sich selbst zu werden.</string>
+    <string name="future_desc" translatable="true">Lebe ein längeres, gesünderes und glücklicheres Leben.</string>
+</resources>
